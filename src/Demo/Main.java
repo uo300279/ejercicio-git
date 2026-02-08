@@ -6,6 +6,9 @@ public class Main {
 		System.out.println("RAMA quiere esta otra linea");
 		// base para rebase
 		// Master avanza por su cuenta
+		//parte 1
+		//parte 2
+		//parte 3
     }
 
 }
