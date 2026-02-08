@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("RAMA quiere esta otra linea");
 		// base para rebase
+		// Master avanza por su cuenta
     }
 
 }
