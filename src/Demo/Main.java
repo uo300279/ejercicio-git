@@ -4,7 +4,7 @@ public class Main {
 	// este es un cambio directo en master
 	public static void main(String[] args) {
         System.out.println("Carga inicial");
-        System.out.println("Texto de Master");
+        System.out.println("Texto de la rama");
     }
 
 }
